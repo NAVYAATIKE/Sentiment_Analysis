@@ -1,0 +1,11 @@
+review_id,review_text,sentiment
+1,The product is amazing and works perfectly.,positive
+2,"Very poor quality, I am not happy.",negative
+3,Customer support was very helpful.,positive
+4,Delivery was late and disappointing.,negative
+5,Great value for money.,positive
+6,The item stopped working after a week.,negative
+7,I love the design and build quality.,positive
+8,Terrible experience with this product.,negative
+9,Fast delivery and good packaging.,positive
+10,Not satisfied with the performance.,negative
